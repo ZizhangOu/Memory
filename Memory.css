@@ -1,0 +1,230 @@
+
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(234, 234, 234);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+h1#po{
+    color: rgb(60, 60, 60);
+    font-size: 100px ;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image: url();
+     background-color: white;
+     background-repeat:no-repeat ;
+     background-position: center ;
+     background-size: 800px 800px;
+ 
+ 
+ }
+
+ .container .banner #po div{
+    font-size: 15px;
+    font-weight: 100;
+ }
+
+h1{
+   color: rgba(255, 255, 255, 0);
+   font-size: 100px ;
+    width: 800px;
+    height: 250px;
+    align-content: center;
+    border-radius: 50px;
+    margin-top: 50px;
+
+    padding:50px;
+    box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+    , 8px 8px 25px rgb(190, 190, 190);
+    text-align: center;
+
+    background-image: url(https://i.pinimg.com/originals/14/98/77/149877f3b90d0f721502182c53763188.jpg);
+    background-repeat:no-repeat ;
+    background-position: center ;
+    background-size: 800px 800px;
+
+
+}
+
+
+ h1#ps:hover{
+    color: rgba(255, 255, 255, 0.996);
+    font-size: 30px;
+    font-weight: 1000;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image:url(./Pic/1.JPG) ;
+     background-repeat:no-repeat ;
+     background-position: center;
+     background-size: cover;
+    background-color: blue;
+ 
+ }
+
+ 
+
+ h1#pt:hover{
+    color: rgba(255, 255, 255, 0.996);
+    font-size: 30px;
+    font-weight: 1000;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image:url(./Pic/2.JPG) ;
+     background-repeat:no-repeat ;
+     background-position: 0px -250px;
+     background-size: cover;
+    background-color: blue;
+ 
+ }
+
+ h1#pf:hover{
+    color: rgba(255, 255, 255, 0.996);
+    font-size: 30px;
+    font-weight: 1000;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image:url(./Pic/3.JPG) ;
+     background-repeat:no-repeat ;
+     background-position: center;
+     background-size: cover;
+    background-color: blue;
+ 
+ }
+
+ h1#pfi:hover{
+    color: rgba(255, 255, 255, 0.996);
+    font-size: 30px;
+    font-weight: 1000;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image:url(./Pic/4.jpg) ;
+     background-repeat:no-repeat ;
+     background-position: center;
+     background-size: cover;
+    background-color: blue;
+ 
+ }
+
+ h1#px:hover{
+    color: rgba(255, 255, 255, 0.996);
+    font-size: 30px;
+    font-weight: 1000;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image:url(./Pic/5.jpg) ;
+     background-repeat:no-repeat ;
+     background-position: center;
+     background-size: cover;
+    background-color: blue;
+ 
+ }
+ 
+ h1#pse:hover{
+    color: rgba(255, 255, 255, 0.996);
+    font-size: 30px;
+    font-weight: 1000;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image:url(./Pic/6.jpg) ;
+     background-repeat:no-repeat ;
+     background-position: 0px -250px;
+     background-size: cover;
+    background-color: blue;
+ 
+ }
+
+ h1#pe:hover{
+    color: rgba(255, 255, 255, 0.996);
+    font-size: 30px;
+    font-weight: 1000;
+     width: 800px;
+     height: 250px;
+     align-content: center;
+     border-radius: 50px;
+     margin-top: 50px;
+ 
+     padding:50px;
+     box-shadow:-8px -8px 25px rgb(255, 255, 255) 
+     , 8px 8px 25px rgb(190, 190, 190);
+     text-align: center;
+ 
+     background-image:url(./Pic/7.jpg) ;
+     background-repeat:no-repeat ;
+     background-position: center;
+     background-size: cover;
+    background-color: blue;
+ 
+ }
